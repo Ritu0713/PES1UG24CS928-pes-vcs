@@ -4,7 +4,6 @@
 //
 //   <mode-octal> <64-char-hex-hash> <mtime-seconds> <size> <path>
 //
-// Example:
 //   100644 a1b2c3d4e5f6...  1699900000 42 README.md
 //   100644 f7e8d9c0b1a2...  1699900100 128 src/main.c
 //
@@ -32,8 +31,6 @@ static int compare_index_entries(const void *a, const void *b) {
     const IndexEntry *entry_b = (const IndexEntry *)b;
     return strcmp(entry_a->path, entry_b->path);
 }
-
-// ─── PROVIDED ────────────────────────────────────────────────────────────────
 
 // Find an index entry by path (linear scan).
 IndexEntry* index_find(Index *index, const char *path) {
