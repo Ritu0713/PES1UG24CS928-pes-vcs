@@ -198,17 +198,6 @@ make
 └── HEAD
 ```
 
----
-
-## Submission Notes
-
-* Screenshots included ✔️
-* Phase 5 & 6 answers included ✔️
-* Code implemented ✔️
-* Repository ready for submission ✔️
-
----
-
 ## Conclusion
 
 This project demonstrates how version control systems like Git work internally using:
