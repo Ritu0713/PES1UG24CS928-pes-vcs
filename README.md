@@ -1,5 +1,8 @@
 # Building PES-VCS — A Version Control System from Scratch
 
+**NAME: RITU RAVISH**
+**SRN : PES1UG24CS928**
+
 **Objective:** Build a local version control system that tracks file changes, stores snapshots efficiently, and supports commit history.
 
 **Platform:** Ubuntu 22.04
