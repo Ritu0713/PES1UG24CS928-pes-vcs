@@ -9,7 +9,7 @@
 //
 //   <commit message>
 //
-// Note: there is a blank line between the headers and the message.
+
 //
 // PROVIDED functions: commit_parse, commit_serialize, commit_walk, head_read, head_update
 // TODO functions:     commit_create
